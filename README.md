@@ -1,3 +1,4 @@
+本项目是一个票务销售平台的前端项目 
 # ticketmaster
 
 > A Vue.js project
